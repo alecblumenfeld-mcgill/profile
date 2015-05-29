@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Chrome Apps and Extensions",
+		"CoffeeScript",
+		"Git",
+		"GitGutter",
+		"Github Tools",
+		"Google Spell Check",
+		"InsertDate",
+		"LaTeXing",
+		"LaTeXTools",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownBuild",
+		"MarkdownEditing",
+		"ModernPerl",
+		"Origami",
+		"OSX Font Chooser",
+		"Package Control",
+		"Pandoc",
+		"Sass",
+		"Seti_UX",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"SublimeTextGitX",
+		"Theme - Eightlime",
+		"Theme - Soda",
+		"Themr"
+	]
+}
